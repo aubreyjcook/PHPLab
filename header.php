@@ -1,0 +1,1 @@
+<h1><a href="index.html">A Cook's Web 115 Responsive Photo Gallery Project</a></h1>
