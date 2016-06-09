@@ -1,1 +1,3 @@
-<h1><a href="index.html">A Cook's Web 115 Responsive Photo Gallery Project</a></h1>
+<h1>
+    <a href="index.php">A Cook's Web 115 PHP Lab</a>
+</h1>
